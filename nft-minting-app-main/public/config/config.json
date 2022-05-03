@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf5EeccaEe16a80089E58C8A9B0f7CC499c37CfDF",
+  "SCAN_LINK": "https://polygonscan.com/address/0xf5eeccaee16a80089e58c8a9b0f7cc499c37cfdf",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "CryptoMars",
+  "SYMBOL": "CM",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 100000000000000000000,
+  "DISPLAY_COST": 100,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cryptomars-3rd-drop",
+  "SHOW_BACKGROUND": true
+}
